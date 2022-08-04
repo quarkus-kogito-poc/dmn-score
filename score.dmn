@@ -34,7 +34,7 @@
       </dmn:input>
       <dmn:input id="_5B1E0886-2332-4A61-BB99-6463868396DE">
         <dmn:inputExpression id="_52341FD3-524C-4C32-AA6A-24EC40057769" typeRef="string">
-          <dmn:text>occupation</dmn:text>
+          <dmn:text>occupat</dmn:text>
         </dmn:inputExpression>
       </dmn:input>
       <dmn:output id="_0D7BD2D1-C5FB-48F3-BAE0-83D5702F3354"/>
